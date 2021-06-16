@@ -1,0 +1,9 @@
+{
+  "weight": "int",
+  "item": "int",
+  "number": "int",
+  "requireLevel": "int",
+  "requireNumber": "int",
+  "className": "string",
+  "herbalWorth": "int"
+}

@@ -1,0 +1,7 @@
+{
+  "grade": "int",
+  "gradeA": "int",
+  "gradeB": "int",
+  "gradeC": "int",
+  "gradeD": "int"
+}

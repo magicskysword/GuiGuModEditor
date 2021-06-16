@@ -1,0 +1,14 @@
+{
+  "dungeonID": "int",
+  "condition": "string",
+  "type": "int",
+  "roomIndex": "int",
+  "group": "int",
+  "updateUnitType": "int",
+  "updateUnitValue1": "string",
+  "updateUnitValue2": "string",
+  "updateUnitValue3": "string",
+  "updateUnitValue4": "string",
+  "updateUnitValue5": "string",
+  "weight": "int"
+}

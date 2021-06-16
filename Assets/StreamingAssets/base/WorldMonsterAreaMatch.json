@@ -1,0 +1,8 @@
+{
+  "areaID": "int",
+  "dungeonID": "int",
+  "initLevel": "int",
+  "levelUpMonth": "int",
+  "maxLevel": "int",
+  "weight": "int"
+}

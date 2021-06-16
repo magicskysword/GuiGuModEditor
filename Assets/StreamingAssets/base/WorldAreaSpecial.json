@@ -1,0 +1,13 @@
+{
+  "posType": "int",
+  "posValue": "string",
+  "count": "string",
+  "coerceCreate": "int",
+  "decorateID": "string",
+  "buildData": "string",
+  "baseDecorateID": "string",
+  "size": "int",
+  "edgeDecorateID": "string",
+  "minTheTerrDis": "int",
+  "minTerrDis": "int"
+}

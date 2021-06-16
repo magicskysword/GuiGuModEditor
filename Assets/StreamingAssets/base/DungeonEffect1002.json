@@ -1,0 +1,6 @@
+{
+  "roomIndex": "int",
+  "baseAttr": "string",
+  "unitAttr": "string",
+  "bossAttr": "string"
+}

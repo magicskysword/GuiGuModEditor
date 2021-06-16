@@ -1,0 +1,6 @@
+{
+  "name": "string",
+  "type": "int",
+  "main": "int",
+  "area": "string"
+}

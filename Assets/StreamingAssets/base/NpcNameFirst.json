@@ -1,0 +1,6 @@
+{
+  "gender": "int",
+  "weight": "int",
+  "name": "string",
+  "tc": "string"
+}

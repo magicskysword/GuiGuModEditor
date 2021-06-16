@@ -1,0 +1,11 @@
+{
+  "type": "int",
+  "bgColor": "string",
+  "floor": "string",
+  "floorWidth": "float",
+  "decoration": "string",
+  "bg": "string",
+  "sounds": "string",
+  "soundEffect": "string",
+  "weight": "int"
+}

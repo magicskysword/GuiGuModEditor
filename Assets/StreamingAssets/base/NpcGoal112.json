@@ -1,0 +1,8 @@
+{
+  "weightBase": "int",
+  "weightAdd": "int",
+  "actions": "string",
+  "actionValue": "string",
+  "goalStartLog": "string",
+  "goalFailLog": "string"
+}

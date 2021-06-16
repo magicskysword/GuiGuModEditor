@@ -1,0 +1,13 @@
+{
+  "finishType": "int",
+  "finishValue": "string",
+  "moveType": "int",
+  "moveValue": "int",
+  "isLookDire": "int",
+  "createEvemtFunction": "int",
+  "functionValue": "int",
+  "moveEndHide": "int",
+  "moveEndDel": "int",
+  "dramaRange": "int",
+  "dramaID": "string"
+}

@@ -1,0 +1,9 @@
+{
+  "healthMin": "int",
+  "healthMax": "int",
+  "energyMin": "int",
+  "energyMax": "int",
+  "badFeature": "string",
+  "removeRate": "int",
+  "costDay": "int"
+}

@@ -1,0 +1,5 @@
+{
+  "fightID": "int",
+  "area": "int",
+  "rewards": "string"
+}

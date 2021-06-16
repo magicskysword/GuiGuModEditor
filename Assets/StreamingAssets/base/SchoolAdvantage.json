@@ -1,0 +1,12 @@
+{
+  "type": "int",
+  "name": "string",
+  "group": "int",
+  "scale": "int",
+  "basType": "string",
+  "desc": "string",
+  "rule": "string",
+  "building": "string",
+  "effect": "string",
+  "duty": "string"
+}

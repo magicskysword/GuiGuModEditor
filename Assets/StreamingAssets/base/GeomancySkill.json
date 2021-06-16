@@ -1,0 +1,13 @@
+{
+  "group": "int",
+  "icon": "string",
+  "grade": "int",
+  "basType": "string",
+  "basRequire": "int",
+  "area": "string",
+  "type": "int",
+  "effect1": "string",
+  "effect2": "string",
+  "desc": "string",
+  "remind": "string"
+}

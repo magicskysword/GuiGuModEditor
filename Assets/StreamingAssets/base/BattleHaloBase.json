@@ -1,0 +1,21 @@
+{
+  "type": "int",
+  "mainSkill": "int",
+  "classID": "int",
+  "model": "string",
+  "range": "string",
+  "boxType": "int",
+  "block": "int",
+  "target": "int",
+  "condition": "string",
+  "chase": "int",
+  "includeInvincible": "int",
+  "isDisCheck": "int",
+  "delay": "int",
+  "duration": "string",
+  "enterEffect": "string",
+  "exitEffect": "string",
+  "clearEffect": "int",
+  "destroyEffect": "string",
+  "haloEffectActive": "string"
+}

@@ -1,0 +1,8 @@
+{
+  "townLevel": "int",
+  "icon": "string",
+  "grade": "int",
+  "costMoney": "int",
+  "dungeonID": "int",
+  "dungeonLevel": "int"
+}

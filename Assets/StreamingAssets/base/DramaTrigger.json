@@ -1,0 +1,11 @@
+{
+  "type": "int",
+  "trigger": "string",
+  "condition": "string",
+  "isRepeat": "int",
+  "triggerCD": "int",
+  "setNPCA": "string",
+  "setNPCB": "string",
+  "dramaID": "string",
+  "function": "string"
+}

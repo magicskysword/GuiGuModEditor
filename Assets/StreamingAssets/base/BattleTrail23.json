@@ -1,0 +1,10 @@
+{
+  "bulletNum": "string",
+  "radius": "string",
+  "height": "int",
+  "gravity": "int",
+  "delay": "int",
+  "landPos": "int",
+  "sound": "string",
+  "endPosiEffect": "string"
+}

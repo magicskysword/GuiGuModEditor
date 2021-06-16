@@ -1,0 +1,6 @@
+{
+  "eventID": "int",
+  "pointType": "int",
+  "pointValues": "string",
+  "cost": "string"
+}

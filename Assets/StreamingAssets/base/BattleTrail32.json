@@ -1,0 +1,8 @@
+{
+  "lastType": "int",
+  "startType": "int",
+  "endType": "int",
+  "interval": "int",
+  "lerp": "float",
+  "mulUseSkill": "int"
+}

@@ -1,0 +1,7 @@
+{
+  "triggerID": "int",
+  "triggerProb": "string",
+  "delay": "string",
+  "target": "int",
+  "effectID": "int"
+}

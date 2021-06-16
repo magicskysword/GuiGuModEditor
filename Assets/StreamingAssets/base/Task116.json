@@ -1,0 +1,13 @@
+{
+  "closeMinBA": "int",
+  "closeMaxBA": "int",
+  "startDialogue": "int",
+  "accomplishDialogueA": "int",
+  "accomplishDialogueB": "int",
+  "completeTaskDramaID": "int",
+  "completeEmailID": "int",
+  "motivationLogA": "string",
+  "goalStartLogA": "string",
+  "eventLogTaskA": "string",
+  "eventLogTaskB": "string"
+}

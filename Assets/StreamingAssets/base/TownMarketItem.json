@@ -1,0 +1,10 @@
+{
+  "group": "int",
+  "level": "string",
+  "mainTown": "int",
+  "conflict": "int",
+  "amountMin": "int",
+  "amountMax": "int",
+  "weight": "int",
+  "patch": "int"
+}

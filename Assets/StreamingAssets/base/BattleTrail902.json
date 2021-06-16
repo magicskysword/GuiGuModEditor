@@ -1,0 +1,7 @@
+{
+  "width": "string",
+  "bulletNum": "string",
+  "shotCD": "int",
+  "wave": "int",
+  "interval": "int"
+}

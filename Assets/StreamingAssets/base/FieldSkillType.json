@@ -1,0 +1,6 @@
+{
+  "basType": "int",
+  "level": "int",
+  "halo": "string",
+  "desc": "string"
+}

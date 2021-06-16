@@ -1,0 +1,13 @@
+{
+  "closeMin": "int",
+  "closeMax": "int",
+  "argetItem": "int",
+  "startDialogue": "int",
+  "accomplishDialogueA": "int",
+  "accomplishDialogueB": "int",
+  "motivationLogA": "string",
+  "goalStartLogA": "string",
+  "eventLogTaskA": "string",
+  "eventLogTaskB": "string",
+  "eventLogTaskC": "string"
+}

@@ -1,0 +1,11 @@
+{
+  "unitID": "string",
+  "count": "string",
+  "delay": "string",
+  "number": "string",
+  "interval": "int",
+  "duration": "string",
+  "inheritAttr": "string",
+  "effect": "string",
+  "notCreateEffect": "int"
+}

@@ -1,0 +1,5 @@
+{
+  "itemGrade": "int",
+  "itemLevel": "int",
+  "fixedPower": "int"
+}

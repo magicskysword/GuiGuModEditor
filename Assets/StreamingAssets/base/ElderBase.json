@@ -1,0 +1,11 @@
+{
+  "name": "string",
+  "equipEffect": "string",
+  "desc": "string",
+  "dungeonID": "int",
+  "growAttr": "string",
+  "item": "int",
+  "icon": "string",
+  "smallImage": "string",
+  "BigImage": "string"
+}

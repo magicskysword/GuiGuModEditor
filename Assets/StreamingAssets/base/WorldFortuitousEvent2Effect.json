@@ -1,0 +1,10 @@
+{
+  "size": "int",
+  "baseDecorateID": "string",
+  "showDecorateRate": "int",
+  "interval": "int",
+  "decorateID": "string",
+  "sizeVariation": "int",
+  "sizeMax": "int",
+  "weatherId": "int"
+}

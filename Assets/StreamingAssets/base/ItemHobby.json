@@ -1,0 +1,6 @@
+{
+  "effectValue": "string",
+  "hobbyID": "int",
+  "level": "int",
+  "lasting": "int"
+}

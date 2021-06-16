@@ -1,0 +1,9 @@
+{
+  "legendID": "int",
+  "level": "int",
+  "item": "int",
+  "cost": "int",
+  "skillGroup": "int",
+  "skillName": "string",
+  "skillDesc": "string"
+}

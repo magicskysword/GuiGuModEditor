@@ -1,0 +1,7 @@
+{
+  "item": "int",
+  "magicID": "int",
+  "addValue": "int",
+  "requireValue": "int",
+  "output": "int"
+}

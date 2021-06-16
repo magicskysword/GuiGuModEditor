@@ -1,0 +1,10 @@
+{
+  "closeMinBA": "int",
+  "closeMaxBA": "int",
+  "accomplishDialogueA": "int",
+  "accomplishDialogueB1": "int",
+  "accomplishDialogueB2": "int",
+  "itemID": "int",
+  "luckID": "int",
+  "moveGhostRevengeRate": "int"
+}

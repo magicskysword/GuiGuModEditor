@@ -1,0 +1,5 @@
+{
+  "type": "int",
+  "grade": "int",
+  "grid": "int"
+}

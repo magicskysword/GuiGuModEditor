@@ -1,0 +1,5 @@
+{
+  "gender": "int",
+  "name": "string",
+  "tc": "string"
+}

@@ -1,0 +1,7 @@
+{
+  "areaID": "int",
+  "posiType": "int",
+  "posiID": "string",
+  "condition": "string",
+  "buildingIndex": "int"
+}

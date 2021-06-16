@@ -1,0 +1,10 @@
+{
+  "type": "int",
+  "name": "string",
+  "avatar": "string",
+  "unitID": "int",
+  "modelID": "int",
+  "isHpUI": "int",
+  "dramaId": "string",
+  "repatDialogue": "int"
+}

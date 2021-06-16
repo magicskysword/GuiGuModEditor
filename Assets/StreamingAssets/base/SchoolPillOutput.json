@@ -1,0 +1,19 @@
+{
+  "itemID": "int",
+  "weightLv1": "int",
+  "weightLv2": "int",
+  "weightLv3": "int",
+  "weightLv4": "int",
+  "weightLv5": "int",
+  "weightLv6": "int",
+  "weightLv7": "int",
+  "weightLv8": "int",
+  "weightLv9": "int",
+  "weightLv10": "int",
+  "weightLv11": "int",
+  "weightLv12": "int",
+  "weightLv13": "int",
+  "weightLv14": "int",
+  "weightLv15": "int",
+  "price": "int"
+}

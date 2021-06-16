@@ -1,0 +1,8 @@
+{
+  "effectValue": "string",
+  "feature": "string",
+  "model": "string",
+  "mapMoveSounds": "string",
+  "desc": "string",
+  "grade": "int"
+}

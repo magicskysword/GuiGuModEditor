@@ -1,0 +1,6 @@
+{
+  "desc": "string",
+  "time": "string",
+  "icon": "string",
+  "show": "int"
+}

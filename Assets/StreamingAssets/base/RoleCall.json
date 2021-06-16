@@ -1,0 +1,7 @@
+{
+  "relation": "int",
+  "condition": "string",
+  "call": "string",
+  "group": "int",
+  "weight": "int"
+}

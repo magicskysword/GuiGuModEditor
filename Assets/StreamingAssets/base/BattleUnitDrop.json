@@ -1,0 +1,5 @@
+{
+  "dropID": "int",
+  "grade": "int",
+  "rewards": "int"
+}

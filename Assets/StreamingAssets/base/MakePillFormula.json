@@ -1,0 +1,23 @@
+{
+  "name": "string",
+  "grade": "int",
+  "costEnergy": "int",
+  "basPil": "int",
+  "herbalRequier": "string",
+  "herbalRequierCount": "string",
+  "huo": "int",
+  "shui": "int",
+  "lei": "int",
+  "feng": "int",
+  "tu": "int",
+  "mu": "int",
+  "yin": "int",
+  "yan": "int",
+  "pillA": "int",
+  "pillB": "int",
+  "pillC": "int",
+  "pillD": "int",
+  "pillE": "int",
+  "pillF": "int",
+  "outputNum": "int"
+}

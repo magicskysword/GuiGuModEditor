@@ -1,0 +1,9 @@
+{
+  "item": "int",
+  "advantage": "string",
+  "group": "int",
+  "area": "string",
+  "prob": "int",
+  "countMin": "int",
+  "countMax": "int"
+}

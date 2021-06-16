@@ -1,0 +1,9 @@
+{
+  "type": "int",
+  "width": "int",
+  "height": "int",
+  "weight": "int",
+  "refreshType": "int",
+  "refreshValue": "string",
+  "transfer": "string"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "int",
+  "runSelf": "int",
+  "failedDel": "int",
+  "goalType": "int",
+  "weight": "int",
+  "weightCharacter": "string",
+  "failCost": "int",
+  "failMoveMin": "int",
+  "failMoveMax": "int",
+  "actions": "string",
+  "filterID": "string"
+}

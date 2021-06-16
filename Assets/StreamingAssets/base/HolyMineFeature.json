@@ -1,0 +1,6 @@
+{
+  "item": "int",
+  "number": "int",
+  "area": "string",
+  "feature": "string"
+}

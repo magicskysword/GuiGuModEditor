@@ -1,0 +1,16 @@
+{
+  "post": "int",
+  "postName": "string",
+  "scale": "int",
+  "salary": "int",
+  "contribution": "int",
+  "reputation": "int",
+  "dungeon": "int",
+  "npcLevel": "int",
+  "challengeCD": "int",
+  "close": "int",
+  "task": "string",
+  "building": "string",
+  "postUpDesc": "string",
+  "playerIsUp": "int"
+}

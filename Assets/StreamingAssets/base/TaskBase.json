@@ -1,0 +1,22 @@
+{
+  "name": "string",
+  "group": "int",
+  "type": "int",
+  "level": "int",
+  "duration": "int",
+  "multiple": "int",
+  "rewardItem": "string",
+  "rewardStandUp": "int",
+  "rewardStandDown": "int",
+  "rewardContribution": "int",
+  "rewardMoney": "int",
+  "rewardToken": "int",
+  "rewardReputation": "int",
+  "submit": "int",
+  "isGive": "int",
+  "desc": "string",
+  "addTaskFunction": "string",
+  "completeTaskFunction": "string",
+  "positionID": "int",
+  "remind": "int"
+}

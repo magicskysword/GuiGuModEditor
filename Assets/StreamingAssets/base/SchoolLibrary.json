@@ -1,0 +1,22 @@
+{
+  "scale": "int",
+  "layer": "int",
+  "post": "int",
+  "contribution": "int",
+  "numMin": "int",
+  "numMax": "int",
+  "grade": "int",
+  "type": "string",
+  "basBlade": "int",
+  "basSpear": "int",
+  "basSword": "int",
+  "basFist": "int",
+  "basPalm": "int",
+  "basFinger": "int",
+  "basFire": "int",
+  "basFroze": "int",
+  "basThunder": "int",
+  "basWind": "int",
+  "basEarth": "int",
+  "basWood": "int"
+}

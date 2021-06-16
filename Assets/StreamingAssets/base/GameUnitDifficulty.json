@@ -1,0 +1,6 @@
+{
+  "monsterID": "int",
+  "diff": "int",
+  "grade": "int",
+  "unitAttr": "string"
+}

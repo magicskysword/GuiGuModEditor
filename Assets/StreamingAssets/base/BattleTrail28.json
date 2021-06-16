@@ -1,0 +1,9 @@
+{
+  "bulletNum": "string",
+  "bulletDegree": "string",
+  "bulletInterval": "int",
+  "totalDelay": "int",
+  "sound": "string",
+  "offset": "int",
+  "target": "int"
+}

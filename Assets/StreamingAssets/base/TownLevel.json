@@ -1,0 +1,5 @@
+{
+  "level": "int",
+  "gradeMin": "int",
+  "gradeMax": "int"
+}

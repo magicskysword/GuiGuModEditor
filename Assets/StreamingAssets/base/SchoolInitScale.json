@@ -1,0 +1,18 @@
+{
+  "scale": "int",
+  "initMoney": "int",
+  "initBigElders": "int",
+  "initElders": "int",
+  "initStudentA": "int",
+  "initStudentB": "int",
+  "initStudentC": "int",
+  "initMember": "int",
+  "initReputation": "int",
+  "initDomain": "int",
+  "initMainHallLevel": "int",
+  "basRequire": "int",
+  "closeRequire": "int",
+  "applyGrade": "int",
+  "honorGrade": "int",
+  "honorArea": "int"
+}

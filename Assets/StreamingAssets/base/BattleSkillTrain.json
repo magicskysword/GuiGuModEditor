@@ -1,0 +1,12 @@
+{
+  "grade": "int",
+  "type": "string",
+  "masteryLevel": "int",
+  "costItem": "int",
+  "costNum": "int",
+  "days": "int",
+  "mastery": "int",
+  "talentPara": "int",
+  "forgetMin": "int",
+  "forgetMax": "int"
+}

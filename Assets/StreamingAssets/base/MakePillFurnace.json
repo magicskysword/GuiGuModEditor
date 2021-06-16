@@ -1,0 +1,8 @@
+{
+  "name": "string",
+  "basRequire": "int",
+  "siteNum": "int",
+  "effectValue": "string",
+  "icon": "string",
+  "skills": "string"
+}

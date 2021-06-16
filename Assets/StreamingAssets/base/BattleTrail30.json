@@ -1,0 +1,11 @@
+{
+  "lastType": "int",
+  "startType": "int",
+  "endType": "int",
+  "rangeType": "int",
+  "interval": "string",
+  "costPer": "int",
+  "duringEffect": "string",
+  "mulUseSkill": "int",
+  "lerp": "float"
+}

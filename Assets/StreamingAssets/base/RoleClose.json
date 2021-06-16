@@ -1,0 +1,7 @@
+{
+  "closeMin": "int",
+  "closeIncrease": "float",
+  "closeReduce": "float",
+  "hateIncrease": "float",
+  "hateReduce": "float"
+}

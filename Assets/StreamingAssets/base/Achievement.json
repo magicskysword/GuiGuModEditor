@@ -1,0 +1,11 @@
+{
+  "icon": "string",
+  "Difficulty": "int",
+  "type": "int",
+  "title": "string",
+  "desc": "string",
+  "count": "int",
+  "value": "string",
+  "condition": "string",
+  "feature": "int"
+}

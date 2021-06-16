@@ -1,0 +1,15 @@
+{
+  "name": "string",
+  "className": "string",
+  "type": "int",
+  "gradeMin": "int",
+  "gradeMax": "int",
+  "talent": "string",
+  "basType": "string",
+  "basRequire": "string",
+  "abilityPoint": "string",
+  "skillEffect": "string",
+  "growExp": "string",
+  "equipEffect": "string",
+  "desc": "string"
+}

@@ -1,0 +1,23 @@
+{
+  "group": "int",
+  "type": "int",
+  "gender": "int",
+  "genderShow": "int",
+  "age": "int",
+  "ageShow": "int",
+  "relationRequire": "int",
+  "relation": "string",
+  "icon": "string",
+  "addClose": "int",
+  "addCloseFamily": "int",
+  "reduceClose": "int",
+  "askText": "string",
+  "acceptText": "string",
+  "rejectText": "string",
+  "succeedLogA": "string",
+  "failLogA": "string",
+  "succeedLogB": "string",
+  "failLogB": "string",
+  "bigLogA": "string",
+  "bigLogB": "string"
+}

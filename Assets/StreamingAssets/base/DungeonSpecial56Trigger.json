@@ -1,0 +1,11 @@
+{
+  "dungeonId": "int",
+  "type": "int",
+  "value": "int",
+  "npcConditionID": "int",
+  "dramaID": "string",
+  "cdGroup": "int",
+  "triggerCD": "int",
+  "repeatedly": "int",
+  "probabilityA": "int"
+}

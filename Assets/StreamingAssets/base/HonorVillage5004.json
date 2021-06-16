@@ -1,0 +1,13 @@
+{
+  "dreamID": "int",
+  "name": "string",
+  "icon": "string",
+  "miniMap": "string",
+  "level": "int",
+  "desc": "string",
+  "condition": "int",
+  "item": "int",
+  "cost": "int",
+  "weight": "int",
+  "specialRoom": "int"
+}

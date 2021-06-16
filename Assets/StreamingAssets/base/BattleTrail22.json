@@ -1,0 +1,10 @@
+{
+  "bulletNum": "string",
+  "bulletDegreeTrend": "int",
+  "moveDis": "int",
+  "initMinAngle": "int",
+  "initMaxAngle": "string",
+  "randomMinAngle": "string",
+  "randomMaxAngle": "string",
+  "maxAngleDis": "int"
+}

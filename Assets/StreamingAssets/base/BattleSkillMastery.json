@@ -1,0 +1,13 @@
+{
+  "name": "string",
+  "grade1": "int",
+  "grade2": "int",
+  "grade3": "int",
+  "grade4": "int",
+  "grade5": "int",
+  "grade6": "int",
+  "grade7": "int",
+  "grade8": "int",
+  "grade9": "int",
+  "grade10": "int"
+}

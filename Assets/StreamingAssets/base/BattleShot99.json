@@ -1,0 +1,5 @@
+{
+  "innerNum": "string",
+  "innerCD": "string",
+  "rangeCheck": "int"
+}

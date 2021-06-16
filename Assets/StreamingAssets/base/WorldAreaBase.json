@@ -1,0 +1,16 @@
+{
+  "name": "string",
+  "grade": "int",
+  "gradeMin": "int",
+  "gradeMax": "int",
+  "schoolNum": "int",
+  "schoolScale": "int",
+  "townNum": "int",
+  "townLevel": "int",
+  "centerPoint": "string",
+  "radius": "int",
+  "decorateID": "string",
+  "edgeDecorateID": "string",
+  "sound": "string",
+  "soundEffect": "string"
+}

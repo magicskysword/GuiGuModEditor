@@ -1,0 +1,7 @@
+{
+  "bulletNum": "string",
+  "radius": "string",
+  "radiusGrow": "string",
+  "angularSpeed": "string",
+  "radiusMax": "string"
+}

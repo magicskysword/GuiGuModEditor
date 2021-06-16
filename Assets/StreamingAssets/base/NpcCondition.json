@@ -1,0 +1,16 @@
+{
+  "area": "intArray",
+  "grade": "intArray",
+  "condition1": "string",
+  "condition2": "string",
+  "condition3": "string",
+  "condition4": "string",
+  "condition5": "string",
+  "condition1ABC": "string",
+  "condition2ABC": "string",
+  "condition3ABC": "string",
+  "condition4ABC": "string",
+  "condition5ABC": "string",
+  "save": "int",
+  "group": "int"
+}

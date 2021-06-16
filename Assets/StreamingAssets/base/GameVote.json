@@ -1,0 +1,6 @@
+{
+  "desc": "string",
+  "options": "stringArray",
+  "mulSelect": "int",
+  "show": "int"
+}

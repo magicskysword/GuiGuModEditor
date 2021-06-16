@@ -1,0 +1,19 @@
+{
+  "name": "string",
+  "icon": "string",
+  "className": "string",
+  "type": "int",
+  "gradeMin": "int",
+  "gradeMax": "int",
+  "skillID": "int",
+  "mpCost": "string",
+  "condition": "string",
+  "slowDown": "string",
+  "talent": "string",
+  "growExp": "string",
+  "basType": "string",
+  "basRequire": "string",
+  "alertID": "int",
+  "animTrigger": "int",
+  "desc": "string"
+}

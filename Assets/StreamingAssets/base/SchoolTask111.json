@@ -1,0 +1,6 @@
+{
+  "weight": "int",
+  "item": "int",
+  "number": "int",
+  "taskCount": "int"
+}

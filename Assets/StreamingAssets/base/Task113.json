@@ -1,0 +1,23 @@
+{
+  "closeMin": "int",
+  "closeMax": "int",
+  "matchScoreParaA": "int",
+  "matchScoreParaB": "int",
+  "closeScorePara": "int",
+  "scoreRequire": "int",
+  "location": "int",
+  "scope": "int",
+  "eventID": "int",
+  "startDialogue": "int",
+  "battleDialogue": "int",
+  "interactionDialogue": "int",
+  "accomplishDialogueA": "int",
+  "accomplishDialogueB": "int",
+  "motivationLogA": "string",
+  "goalStartLogA": "string",
+  "eventLogTaskA": "string",
+  "eventLogTaskB": "string",
+  "eventLogTaskC": "string",
+  "eventLogTaskD": "string",
+  "eventLogTaskE": "string"
+}

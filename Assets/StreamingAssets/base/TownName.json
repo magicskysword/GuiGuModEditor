@@ -1,0 +1,6 @@
+{
+  "name": "string",
+  "position": "int",
+  "scale": "int",
+  "type": "int"
+}

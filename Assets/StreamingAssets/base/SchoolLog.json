@@ -1,0 +1,6 @@
+{
+  "logType": "int",
+  "order": "int",
+  "logDescMain": "string",
+  "logDescSub": "string"
+}

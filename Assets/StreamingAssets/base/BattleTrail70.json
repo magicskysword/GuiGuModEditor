@@ -1,0 +1,5 @@
+{
+  "isRotation": "int",
+  "posi": "int",
+  "isTargetPosi": "int"
+}

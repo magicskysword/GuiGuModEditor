@@ -1,0 +1,5 @@
+{
+  "grade": "int",
+  "level": "int",
+  "output": "string"
+}

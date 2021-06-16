@@ -1,0 +1,5 @@
+{
+  "bulletNum": "string",
+  "bulletDegree": "string",
+  "angleTime": "int"
+}

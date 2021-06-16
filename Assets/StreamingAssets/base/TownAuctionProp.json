@@ -1,0 +1,5 @@
+{
+  "rewardID": "int",
+  "scale": "int",
+  "weight": "int"
+}

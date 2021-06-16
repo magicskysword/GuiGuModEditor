@@ -1,0 +1,7 @@
+{
+  "degree": "string",
+  "bulletNum": "string",
+  "shotCD": "string",
+  "wave": "int",
+  "interval": "int"
+}

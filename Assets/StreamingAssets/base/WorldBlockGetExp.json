@@ -1,0 +1,9 @@
+{
+  "grade": "int",
+  "costGasMin": "int",
+  "costGasMax": "int",
+  "expPerGas": "float",
+  "expBonus": "int",
+  "costDay": "int",
+  "mpGrow": "int"
+}

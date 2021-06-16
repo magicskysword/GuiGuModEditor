@@ -1,0 +1,8 @@
+{
+  "name": "string",
+  "model": "string",
+  "drops": "string",
+  "effect": "string",
+  "isWin": "int",
+  "unitGroup": "string"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "int",
+  "level": "int",
+  "value": "int",
+  "color": "string",
+  "tip": "string"
+}

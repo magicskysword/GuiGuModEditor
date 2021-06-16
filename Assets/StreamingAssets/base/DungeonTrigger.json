@@ -1,0 +1,12 @@
+{
+  "dungeonType": "string",
+  "dungeonID": "int",
+  "triggerType": "int",
+  "triggerValue": "string",
+  "condition": "string",
+  "dramaFunction": "string",
+  "battleFunction": "string",
+  "isRepeat": "int",
+  "triggerCD": "int",
+  "weight": "int"
+}

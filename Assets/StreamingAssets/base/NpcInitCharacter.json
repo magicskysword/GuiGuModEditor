@@ -1,0 +1,7 @@
+{
+  "weightFree": "int",
+  "weightBaseUp": "int",
+  "weightPostUp": "int",
+  "weightBaseDown": "int",
+  "weightPostDown": "int"
+}

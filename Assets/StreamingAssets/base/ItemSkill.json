@@ -1,0 +1,11 @@
+{
+  "skillType": "int",
+  "grade": "int",
+  "level": "int",
+  "price": "int",
+  "cost": "int",
+  "auction": "int",
+  "contribution": "int",
+  "worth": "int",
+  "sale": "int"
+}

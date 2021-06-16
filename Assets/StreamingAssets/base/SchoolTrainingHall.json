@@ -1,0 +1,7 @@
+{
+  "level": "int",
+  "skillGrade": "int",
+  "skillMastery": "int",
+  "cost": "int",
+  "succeedGain": "int"
+}

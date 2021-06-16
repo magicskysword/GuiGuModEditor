@@ -1,0 +1,11 @@
+{
+  "dungeonId": "int",
+  "condition": "string",
+  "haloId": "int",
+  "minQuantity": "int",
+  "maxQuantity": "int",
+  "minDelay": "int",
+  "maxDelay": "int",
+  "holoTime": "int",
+  "posiType": "int"
+}

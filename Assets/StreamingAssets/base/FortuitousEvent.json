@@ -1,0 +1,18 @@
+{
+  "name": "string",
+  "type": "int",
+  "trigger": "string",
+  "condition": "string",
+  "attribute": "string",
+  "paraA": "float",
+  "paraB": "float",
+  "paraC": "float",
+  "repeatedly": "int",
+  "geomantic": "int",
+  "triggerCD": "int",
+  "cdGroup": "int",
+  "setNPCA": "string",
+  "setNPCB": "string",
+  "function": "string",
+  "specialTrigger": "string"
+}

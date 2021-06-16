@@ -1,0 +1,13 @@
+{
+  "dressID": "int",
+  "sex": "int",
+  "type": "string",
+  "colorGroup": "int",
+  "color": "string",
+  "name": "string",
+  "flag": "string",
+  "gamerFlag": "string",
+  "flagDesc": "string",
+  "beauty": "int",
+  "weight": "int"
+}

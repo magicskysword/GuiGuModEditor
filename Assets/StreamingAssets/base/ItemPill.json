@@ -1,0 +1,18 @@
+{
+  "effectType": "int",
+  "operUse": "int",
+  "operEquip": "int",
+  "autoUse": "int",
+  "effectValue": "string",
+  "basType": "string",
+  "basRequire": "int",
+  "grade": "int",
+  "spCost": "int",
+  "applyCD": "int",
+  "cdGroup": "int",
+  "pillType": "int",
+  "carryCount": "int",
+  "noUseTogether": "int",
+  "cost": "string",
+  "battleUIHide": "int"
+}

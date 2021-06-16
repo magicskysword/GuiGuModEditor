@@ -1,0 +1,11 @@
+{
+  "condition": "string",
+  "group": "int",
+  "mutexGroup": "int",
+  "weightBase": "int",
+  "weightQuility": "int",
+  "gradeMin": "int",
+  "gradeMax": "int",
+  "picture": "string",
+  "desc": "string"
+}

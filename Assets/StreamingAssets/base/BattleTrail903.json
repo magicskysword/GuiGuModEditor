@@ -1,0 +1,8 @@
+{
+  "bulletNum": "string",
+  "shotCD": "string",
+  "wave": "string",
+  "interval": "string",
+  "rotateMin": "int",
+  "rotateMax": "int"
+}

@@ -1,0 +1,5 @@
+{
+  "minLevel": "int",
+  "maxLevel": "int",
+  "rewardID": "string"
+}

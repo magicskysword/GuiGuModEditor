@@ -1,0 +1,20 @@
+{
+  "accomplishDialogueA1": "int",
+  "accomplishDialogueA2": "int",
+  "accomplishDialogueB": "int",
+  "accomplishDialogueBOptions1": "int",
+  "accomplishDialogueBOptions2": "int",
+  "taskID2": "string",
+  "accomplishDialogueC1": "int",
+  "accomplishDialogueC2": "int",
+  "accomplishDialogueCOptions1": "int",
+  "accomplishDialogueCOptions2": "int",
+  "taskID3": "string",
+  "rewardID": "string",
+  "probabilityA": "int",
+  "probabilityB": "int",
+  "probabilityC": "int",
+  "lifeDownMin": "int",
+  "lifeDownMax": "int",
+  "damageUp": "int"
+}

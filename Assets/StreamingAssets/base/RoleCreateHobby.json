@@ -1,0 +1,10 @@
+{
+  "name": "string",
+  "desc": "string",
+  "group": "int",
+  "weight": "int",
+  "show": "int",
+  "item": "string",
+  "moodAdd": "int",
+  "cd": "int"
+}

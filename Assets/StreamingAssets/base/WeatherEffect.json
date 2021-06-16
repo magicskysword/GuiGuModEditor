@@ -1,0 +1,12 @@
+{
+  "name": "string",
+  "model": "string",
+  "initialFunction": "string",
+  "continueFunction": "string",
+  "triggerCD": "int",
+  "cdGroup": "int",
+  "duration": "int",
+  "season": "string",
+  "sort": "int",
+  "weight": "int"
+}

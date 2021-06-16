@@ -1,0 +1,10 @@
+{
+  "name": "string",
+  "baseID": "int",
+  "growPercent": "int",
+  "attrScale": "string",
+  "dropID": "string",
+  "firstReward": "string",
+  "exp": "int",
+  "unitDatas": "stringArrayArray"
+}

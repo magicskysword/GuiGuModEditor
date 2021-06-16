@@ -1,0 +1,6 @@
+{
+  "npcPart": "string",
+  "trait": "string",
+  "relationType": "string",
+  "gender": "int"
+}

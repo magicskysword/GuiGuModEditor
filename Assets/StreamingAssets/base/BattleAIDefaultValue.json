@@ -1,0 +1,19 @@
+{
+  "AlertRange": "string",
+  "WanderMoveDis": "string",
+  "DazeIntervalTime": "string",
+  "DazeDazeCount": "string",
+  "PatrolOffsetPosi": "string",
+  "BattleTriggerNotifyRadius": "string",
+  "ChaseValues": "string",
+  "ChaseRange": "string",
+  "AttackTotalCount": "string",
+  "AttackCount": "string",
+  "AttackMoveDis": "string",
+  "AttackIntervalTime": "string",
+  "AttackCDTime": "string",
+  "AttackOffsetDis": "string",
+  "AttackXDire": "string",
+  "AttackUpdateDire": "string",
+  "IdleType": "string"
+}

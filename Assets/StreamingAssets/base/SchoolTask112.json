@@ -1,0 +1,5 @@
+{
+  "dungeonID": "int",
+  "dungeonLevel": "int",
+  "taskCount": "int"
+}

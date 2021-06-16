@@ -1,0 +1,16 @@
+{
+  "askClose": "int",
+  "dramaID": "string",
+  "chatDramaID": "string",
+  "cdChatDramaID": "string",
+  "chatCloseUp": "int",
+  "chatCD": "int",
+  "giveDramaID": "string",
+  "cdGiveDramaID": "string",
+  "giveCloseUp": "int",
+  "worthDown": "string",
+  "giveCD": "int",
+  "eventDramaID": "string",
+  "triggerCD": "int",
+  "closeDown": "int"
+}

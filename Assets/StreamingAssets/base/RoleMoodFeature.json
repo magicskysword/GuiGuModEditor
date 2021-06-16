@@ -1,0 +1,6 @@
+{
+  "moodMin": "int",
+  "moodMax": "int",
+  "featureID": "int",
+  "weight": "int"
+}

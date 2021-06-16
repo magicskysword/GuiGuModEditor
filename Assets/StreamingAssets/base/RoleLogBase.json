@@ -1,0 +1,5 @@
+{
+  "eventType": "int",
+  "recordType": "int",
+  "eventLog": "string"
+}

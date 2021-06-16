@@ -1,0 +1,7 @@
+{
+  "group": "int",
+  "custom": "int",
+  "groupText": "string",
+  "keyText": "string",
+  "keyID": "int"
+}

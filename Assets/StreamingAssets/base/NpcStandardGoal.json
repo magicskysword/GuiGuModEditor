@@ -1,0 +1,12 @@
+{
+  "grade": "int",
+  "phase": "int",
+  "money": "int",
+  "bas": "int",
+  "contribution": "int",
+  "reputation": "int",
+  "abilityPoint": "int",
+  "bigArea": "string",
+  "smallArea": "int",
+  "gradeScore": "int"
+}

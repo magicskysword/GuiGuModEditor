@@ -1,0 +1,8 @@
+{
+  "elderID": "int",
+  "level": "int",
+  "grade": "int",
+  "exp": "int",
+  "equipEffect": "string",
+  "desc": "string"
+}

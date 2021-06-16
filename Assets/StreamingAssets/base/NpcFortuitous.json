@@ -1,0 +1,5 @@
+{
+  "featureID": "int",
+  "weight": "int",
+  "eventLog": "string"
+}

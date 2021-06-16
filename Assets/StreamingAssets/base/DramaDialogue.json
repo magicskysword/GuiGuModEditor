@@ -1,0 +1,17 @@
+{
+  "uiType": "int",
+  "condition": "string",
+  "weight": "int",
+  "npcLeft": "int",
+  "npcRight": "int",
+  "speaker": "int",
+  "backgroud": "string",
+  "soundsBg": "string",
+  "soundsEffect": "string",
+  "title": "string",
+  "dialogue": "string",
+  "openFunction": "string",
+  "function": "string",
+  "options": "string",
+  "nextDialogue": "string"
+}

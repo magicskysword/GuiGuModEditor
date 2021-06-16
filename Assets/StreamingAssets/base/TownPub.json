@@ -1,0 +1,18 @@
+{
+  "scale": "string",
+  "name": "string",
+  "grade": "int",
+  "iconA": "string",
+  "level": "int",
+  "descA": "string",
+  "cost": "int",
+  "function": "string",
+  "addEffect": "string",
+  "iconB": "string",
+  "bill": "int",
+  "descB": "string",
+  "closeMin": "int",
+  "closeMax": "int",
+  "numMin": "int",
+  "numMax": "int"
+}

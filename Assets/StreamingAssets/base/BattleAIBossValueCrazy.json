@@ -1,0 +1,11 @@
+{
+  "groupID": "int",
+  "trigger": "string",
+  "condition": "string",
+  "cmd": "string",
+  "cmdValue": "string",
+  "skill": "int",
+  "cycle": "string",
+  "interval": "int",
+  "next": "string"
+}

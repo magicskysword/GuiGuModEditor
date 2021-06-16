@@ -1,0 +1,6 @@
+{
+  "attr": "string",
+  "min": "int",
+  "max": "int",
+  "value": "float"
+}

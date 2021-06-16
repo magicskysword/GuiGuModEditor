@@ -1,0 +1,17 @@
+{
+  "decorationID": "string",
+  "originX": "int",
+  "originY": "int",
+  "width": "int",
+  "height": "int",
+  "uniteNumMin": "float",
+  "uniteNumMax": "float",
+  "uniteDistanceMin": "int",
+  "elementNumMin": "int",
+  "elementNumMax": "int",
+  "elementDistanceMin": "int",
+  "priorAttachElement": "string",
+  "attachDistanceMin": "int",
+  "attachDistanceMax": "int",
+  "isScale": "int"
+}

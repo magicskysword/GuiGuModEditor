@@ -1,0 +1,6 @@
+{
+  "group": "int",
+  "condition": "string",
+  "function": "string",
+  "weight": "int"
+}

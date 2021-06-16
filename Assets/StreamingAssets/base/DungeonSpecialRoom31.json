@@ -1,0 +1,8 @@
+{
+  "condition": "string",
+  "npcConditionID": "int",
+  "npcPosi": "floatArrayArray",
+  "battleFunction": "string",
+  "roomDramaID": "string",
+  "npcDramaID": "string"
+}

@@ -1,0 +1,6 @@
+{
+  "level": "int",
+  "hospitalID": "int",
+  "cost": "int",
+  "deathReduce": "int"
+}

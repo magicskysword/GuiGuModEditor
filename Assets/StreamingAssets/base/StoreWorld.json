@@ -1,0 +1,10 @@
+{
+  "itemType": "int",
+  "item": "int",
+  "condition": "string",
+  "gradeMin": "int",
+  "gradeMax": "int",
+  "count": "int",
+  "group": "int",
+  "weight": "int"
+}

@@ -1,0 +1,9 @@
+{
+  "basType": "int",
+  "dpMax": "int",
+  "chargeTime": "int",
+  "dpCost": "int",
+  "duration": "int",
+  "cd": "int",
+  "range": "int"
+}

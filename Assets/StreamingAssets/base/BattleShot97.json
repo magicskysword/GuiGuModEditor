@@ -1,0 +1,21 @@
+{
+  "dmgInit": "string",
+  "dmgBonus": "string",
+  "scaleInit": "string",
+  "rangeInit": "string",
+  "validTimeMax": "string",
+  "limitTime": "string",
+  "effect": "string",
+  "effectPerfect": "string",
+  "perfectTime": "string",
+  "perfectDesc": "int",
+  "shotPos": "int",
+  "targetPos": "int",
+  "shotEff": "string",
+  "targetEff": "string",
+  "halo": "int",
+  "haloInit": "string",
+  "haloDuration": "int",
+  "rangeCheck": "int",
+  "sound": "string"
+}

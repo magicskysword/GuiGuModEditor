@@ -1,0 +1,17 @@
+{
+  "sex": "int",
+  "hat": "string",
+  "hair": "string",
+  "hairFront": "string",
+  "head": "string",
+  "eyebrows": "string",
+  "eyes": "string",
+  "nose": "string",
+  "mouth": "string",
+  "body": "string",
+  "back": "string",
+  "forehead": "string",
+  "faceFull": "string",
+  "faceLeft": "string",
+  "faceRight": "string"
+}

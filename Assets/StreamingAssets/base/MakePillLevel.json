@@ -1,0 +1,6 @@
+{
+  "weightInit": "int",
+  "weightPara": "int",
+  "masteryPara": "int",
+  "weightTown": "int"
+}

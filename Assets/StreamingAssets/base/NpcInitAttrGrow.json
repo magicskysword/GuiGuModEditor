@@ -1,0 +1,17 @@
+{
+  "age": "int",
+  "ageMaxRate": "int",
+  "reputation": "int",
+  "hp": "int",
+  "mp": "int",
+  "sp": "int",
+  "atk": "int",
+  "def": "int",
+  "crit": "int",
+  "guard": "int",
+  "critV": "int",
+  "guardV": "int",
+  "bas": "int",
+  "abilityPoint": "int",
+  "free": "int"
+}

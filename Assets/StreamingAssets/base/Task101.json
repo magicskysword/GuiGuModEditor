@@ -1,0 +1,10 @@
+{
+  "type": "string",
+  "className": "string",
+  "level": "string",
+  "item": "string",
+  "number": "int",
+  "selectItemDesc": "string",
+  "itemTitle": "string",
+  "itemDesc": "string"
+}

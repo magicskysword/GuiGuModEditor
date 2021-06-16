@@ -1,0 +1,7 @@
+{
+  "goals": "string",
+  "motivationLog": "string",
+  "target": "string",
+  "targetProb": "int",
+  "fitting": "int"
+}

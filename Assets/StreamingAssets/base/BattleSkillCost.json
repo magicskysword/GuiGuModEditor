@@ -1,0 +1,8 @@
+{
+  "grade": "int",
+  "level": "int",
+  "type": "string",
+  "money": "int",
+  "days": "int",
+  "talentExp": "int"
+}

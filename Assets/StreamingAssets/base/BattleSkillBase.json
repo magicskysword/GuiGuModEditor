@@ -1,0 +1,17 @@
+{
+  "mainSkill": "int",
+  "phycicalDmg": "string",
+  "weaponType": "int",
+  "magicDmg": "string",
+  "magicType": "int",
+  "crit": "string",
+  "chargeValue": "int",
+  "missileID": "int",
+  "shotCD": "string",
+  "skillEffect": "string",
+  "skillDire": "string",
+  "offsetPosi": "string",
+  "shotPos": "int",
+  "loadTime": "int",
+  "skillSub": "string"
+}

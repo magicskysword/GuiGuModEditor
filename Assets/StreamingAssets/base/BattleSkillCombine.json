@@ -1,0 +1,10 @@
+{
+  "type": "string",
+  "baseID": "string",
+  "level": "string",
+  "className": "string",
+  "rewardGradeID": "int",
+  "itemName": "string",
+  "itemColor": "int",
+  "itemDesc": "string"
+}

@@ -1,0 +1,7 @@
+{
+  "table": "int",
+  "field": "string",
+  "situation": "int",
+  "priority": "int",
+  "text": "string"
+}

@@ -1,0 +1,12 @@
+{
+  "rewardID": "int",
+  "condition": "string",
+  "itemType": "int",
+  "item": "int",
+  "numMin": "float",
+  "numMax": "float",
+  "group": "int",
+  "firstRewardGroup": "int",
+  "layMax": "int",
+  "weight": "string"
+}

@@ -1,0 +1,11 @@
+{
+  "dungeon": "int",
+  "level": "string",
+  "roomPoint": "string",
+  "roomReward": "string",
+  "roomRewardFix": "int",
+  "stageRewardFirst": "int",
+  "stageRewardNormal": "int",
+  "featureLevelMin": "int",
+  "featureLevelMax": "int"
+}

@@ -1,0 +1,9 @@
+{
+  "initMin": "int",
+  "initMax": "int",
+  "randomReduce": "int",
+  "rangeMin": "int",
+  "rangeMax": "int",
+  "output": "string",
+  "outputCrazy": "string"
+}

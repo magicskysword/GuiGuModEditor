@@ -1,0 +1,7 @@
+{
+  "item": "int",
+  "dungeonID": "int",
+  "level": "int",
+  "weight": "int",
+  "duration": "int"
+}

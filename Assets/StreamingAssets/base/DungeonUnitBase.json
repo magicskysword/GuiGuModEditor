@@ -1,0 +1,8 @@
+{
+  "unitID": "string",
+  "range": "int",
+  "num": "int",
+  "pointCost": "int",
+  "weightBase": "int",
+  "weightGrow": "int"
+}

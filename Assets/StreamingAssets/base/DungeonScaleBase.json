@@ -1,0 +1,10 @@
+{
+  "scaleID": "int",
+  "roomPoint": "int",
+  "waveNum": "int",
+  "wavePointGrow": "int",
+  "eliteWave": "int",
+  "weight": "int",
+  "type": "int",
+  "monsterNum": "int"
+}

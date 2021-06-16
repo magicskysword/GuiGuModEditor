@@ -1,0 +1,6 @@
+{
+  "level": "int",
+  "group": "int",
+  "name": "string",
+  "countMax": "int"
+}

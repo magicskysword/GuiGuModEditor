@@ -1,0 +1,8 @@
+{
+  "scale": "int",
+  "post": "int",
+  "grade": "int",
+  "phase": "int",
+  "weight": "int",
+  "contribution": "int"
+}

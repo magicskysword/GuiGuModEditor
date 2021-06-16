@@ -1,0 +1,9 @@
+{
+  "grade": "int",
+  "phase": "int",
+  "rankProb": "int",
+  "scoreMin": "int",
+  "scoreMax": "int",
+  "timeMin": "int",
+  "timeMax": "int"
+}

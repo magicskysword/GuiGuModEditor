@@ -1,0 +1,9 @@
+{
+  "dungeonType": "string",
+  "dungeonArea": "string",
+  "dungeonLevel": "int",
+  "dungeonID": "string",
+  "dungeonCenter": "string",
+  "dungeonRange": "int",
+  "listenType": "int"
+}

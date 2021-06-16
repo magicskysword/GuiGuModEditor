@@ -1,0 +1,8 @@
+{
+  "type": "int",
+  "compel": "int",
+  "title": "string",
+  "icon": "string",
+  "tinyIcon": "string",
+  "eventLog": "string"
+}

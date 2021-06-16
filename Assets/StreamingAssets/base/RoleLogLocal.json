@@ -1,0 +1,14 @@
+{
+  "keyID": "string",
+  "part": "string",
+  "goal": "string",
+  "active": "string",
+  "characterGroup": "int",
+  "relation": "string",
+  "condition": "string",
+  "weight": "int",
+  "icon": "string",
+  "pointColor": "string",
+  "ch": "string",
+  "tc": "string"
+}

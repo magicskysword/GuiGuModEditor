@@ -1,0 +1,5 @@
+{
+  "type": "int",
+  "centreX": "int",
+  "centreY": "int"
+}

@@ -1,0 +1,10 @@
+{
+  "bulletNum": "string",
+  "bulletDistance": "string",
+  "targetType": "int",
+  "targetOffsetPosi": "int",
+  "destroyType": "int",
+  "rangeMin": "int",
+  "warnEffect": "string",
+  "warnSize": "int"
+}

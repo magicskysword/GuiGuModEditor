@@ -1,0 +1,7 @@
+{
+  "name": "string",
+  "desc": "string",
+  "effect": "string",
+  "itemCostID": "string",
+  "cost": "int"
+}

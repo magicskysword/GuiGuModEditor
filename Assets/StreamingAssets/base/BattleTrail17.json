@@ -1,0 +1,9 @@
+{
+  "bulletNum": "string",
+  "chaseActive": "int",
+  "chaseDegree": "int",
+  "bulletDegree": "int",
+  "offsetDis": "int",
+  "maxTargetTime": "int",
+  "stopTarget": "int"
+}

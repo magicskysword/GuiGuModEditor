@@ -1,0 +1,19 @@
+{
+  "taskType": "int",
+  "taskLevel": "int",
+  "schoolScale": "string",
+  "condition": "string",
+  "stand": "int",
+  "rewardContribution": "int",
+  "money": "int",
+  "reputation": "int",
+  "postMin": "int",
+  "postMax": "int",
+  "refreshNum": "int",
+  "refreshProb": "int",
+  "requireMember": "int",
+  "memberBaseSucceeRate": "int",
+  "memberBaseDieRate": "int",
+  "taskTamlpate": "int",
+  "desc": "string"
+}

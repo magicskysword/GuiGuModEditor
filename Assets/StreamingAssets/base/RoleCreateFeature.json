@@ -1,0 +1,15 @@
+{
+  "type": "int",
+  "group": "int",
+  "level": "int",
+  "duration": "int",
+  "refreshType": "int",
+  "conceal": "int",
+  "name": "string",
+  "effect": "string",
+  "tips": "string",
+  "iconAndDesc": "string",
+  "lockLuck": "int",
+  "introduceText": "string",
+  "weight": "int"
+}

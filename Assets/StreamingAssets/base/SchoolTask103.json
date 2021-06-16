@@ -1,0 +1,5 @@
+{
+  "weight": "int",
+  "basRequire": "int",
+  "sourceItem": "int"
+}

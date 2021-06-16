@@ -1,0 +1,13 @@
+{
+  "boxType": "int",
+  "phycicalDmg": "string",
+  "phycicalType": "int",
+  "magicDmg": "string",
+  "magicType": "int",
+  "attackStartDelay": "int",
+  "attackCount": "int",
+  "attackDelay": "string",
+  "phaseDmg": "string",
+  "condition": "string",
+  "haloEffect": "string"
+}

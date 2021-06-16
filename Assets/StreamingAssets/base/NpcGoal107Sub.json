@@ -1,0 +1,7 @@
+{
+  "weightBase": "int",
+  "postMin": "int",
+  "postMax": "int",
+  "weightHobby": "string",
+  "actions": "string"
+}

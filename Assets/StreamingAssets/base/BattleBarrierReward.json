@@ -1,0 +1,6 @@
+{
+  "barrierID": "int",
+  "minLevel": "int",
+  "maxLevel": "int",
+  "rewardID": "int"
+}

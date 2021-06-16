@@ -1,0 +1,6 @@
+{
+  "group": "int",
+  "level": "int",
+  "exp": "int",
+  "costContribution": "int"
+}

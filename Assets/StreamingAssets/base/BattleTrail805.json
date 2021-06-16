@@ -1,0 +1,9 @@
+{
+  "isNearTargetUnitPosi": "int",
+  "range": "int",
+  "isTargetUnitPosi": "int",
+  "isTarget": "int",
+  "isDire": "int",
+  "bulletNum": "string",
+  "interval": "int"
+}

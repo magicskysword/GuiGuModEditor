@@ -1,0 +1,13 @@
+{
+  "level": "int",
+  "memberMax": "int",
+  "maxBigElders": "int",
+  "maxElders": "int",
+  "maxStudentA": "int",
+  "maxStudentB": "int",
+  "maxStudentC": "int",
+  "expectMemberMin": "int",
+  "expectMemberMax": "int",
+  "baseTax": "int",
+  "domainRange": "int"
+}

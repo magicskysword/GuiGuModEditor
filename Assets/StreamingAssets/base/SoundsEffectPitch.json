@@ -1,0 +1,5 @@
+{
+  "path": "string",
+  "minPitch": "float",
+  "maxPitch": "float"
+}

@@ -1,0 +1,7 @@
+{
+  "delay": "int",
+  "function": "string",
+  "battleFunction": "string",
+  "nextID": "string",
+  "weight": "int"
+}

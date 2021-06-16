@@ -1,0 +1,12 @@
+{
+  "triggerID": "int",
+  "triggerProb": "string",
+  "skillType": "int",
+  "subSkillID": "string",
+  "subSkillOffsetPosi": "string",
+  "chaseRotation": "int",
+  "chaseBullet": "int",
+  "subSkillTriggerActivate": "int",
+  "capacity": "string",
+  "destroyMainMissile": "int"
+}

@@ -1,0 +1,5 @@
+{
+  "bulletNum": "string",
+  "offsetRange": "int",
+  "finalRangeLimit": "int"
+}

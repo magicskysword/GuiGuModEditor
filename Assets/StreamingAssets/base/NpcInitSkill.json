@@ -1,0 +1,8 @@
+{
+  "grade": "int",
+  "phase": "int",
+  "skillGrade": "int",
+  "skillLevel": "int",
+  "probability": "int",
+  "probabilityCrazy": "int"
+}

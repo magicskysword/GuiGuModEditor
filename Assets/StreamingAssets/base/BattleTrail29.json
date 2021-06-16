@@ -1,0 +1,10 @@
+{
+  "popNum": "string",
+  "repeatPop": "string",
+  "firstTarget": "int",
+  "lockTarget": "int",
+  "unitID": "int",
+  "effectID": "string",
+  "popSelf": "string",
+  "popEffect": "string"
+}

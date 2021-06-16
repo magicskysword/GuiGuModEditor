@@ -1,0 +1,16 @@
+{
+  "icon": "string",
+  "name": "string",
+  "buttonText": "string",
+  "desc": "string",
+  "condition": "string",
+  "conditionDesc": "string",
+  "cost": "string",
+  "costHide": "int",
+  "clickTip": "string",
+  "winExtraDesc": "string",
+  "cd": "int",
+  "cdHideBuild": "int",
+  "decorateID": "int",
+  "function": "string"
+}

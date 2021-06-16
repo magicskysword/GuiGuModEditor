@@ -1,0 +1,6 @@
+{
+  "name": "string",
+  "probability": "int",
+  "function": "string",
+  "icon": "string"
+}

@@ -1,0 +1,5 @@
+{
+  "weight": "int",
+  "distance": "int",
+  "sourceItem": "int"
+}

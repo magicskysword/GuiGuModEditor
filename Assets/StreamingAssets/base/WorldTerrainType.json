@@ -1,0 +1,5 @@
+{
+  "name": "string",
+  "isOverDecorate": "int",
+  "moveCost": "int"
+}

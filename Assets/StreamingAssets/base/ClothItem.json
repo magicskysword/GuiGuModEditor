@@ -1,0 +1,9 @@
+{
+  "clothID": "int",
+  "sex": "int",
+  "style": "int",
+  "color": "int",
+  "modelID": "int",
+  "itemCost": "intArrayArray",
+  "weight": "int"
+}

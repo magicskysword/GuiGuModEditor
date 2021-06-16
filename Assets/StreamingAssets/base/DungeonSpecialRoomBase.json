@@ -1,0 +1,9 @@
+{
+  "condition": "string",
+  "type": "int",
+  "width": "int",
+  "height": "int",
+  "sceneID": "string",
+  "dramaID": "string",
+  "weight": "int"
+}

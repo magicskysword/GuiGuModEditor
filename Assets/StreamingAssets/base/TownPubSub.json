@@ -1,0 +1,8 @@
+{
+  "level": "int",
+  "main": "int",
+  "askText": "string",
+  "ask": "string",
+  "drama": "string",
+  "newTip": "string"
+}

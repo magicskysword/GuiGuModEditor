@@ -1,0 +1,19 @@
+{
+  "type": "int",
+  "model": "string",
+  "size": "string",
+  "speed": "string",
+  "range": "string",
+  "shake": "int",
+  "shotID": "int",
+  "shotType": "int",
+  "trailID": "int",
+  "trailType": "int",
+  "lifecycle": "string",
+  "condition": "string",
+  "reflectPower": "int",
+  "throughPower": "string",
+  "resist": "int",
+  "backType": "string",
+  "shakeID": "int"
+}

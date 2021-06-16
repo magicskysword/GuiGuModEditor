@@ -1,0 +1,11 @@
+{
+  "condition": "string",
+  "hue": "int",
+  "optionsHide": "int",
+  "text": "string",
+  "cost": "string",
+  "costHide": "int",
+  "function": "string",
+  "clickTip": "string",
+  "nextDialogue": "string"
+}

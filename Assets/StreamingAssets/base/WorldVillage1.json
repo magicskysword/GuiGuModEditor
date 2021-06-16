@@ -1,0 +1,7 @@
+{
+  "villageID": "int",
+  "index": "int",
+  "condition": "string",
+  "dramaID": "string",
+  "newTip": "string"
+}

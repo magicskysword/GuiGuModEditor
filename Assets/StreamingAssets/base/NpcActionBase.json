@@ -1,0 +1,8 @@
+{
+  "actionType": "int",
+  "weightBase": "int",
+  "weightCharacter": "string",
+  "hobbyID": "int",
+  "weightHobby": "int",
+  "filterID": "string"
+}

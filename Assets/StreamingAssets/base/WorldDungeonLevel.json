@@ -1,0 +1,5 @@
+{
+  "areaPoint": "int",
+  "dungeonLevelMin": "int",
+  "dungeonLevelMax": "int"
+}

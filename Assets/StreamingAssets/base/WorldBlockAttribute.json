@@ -1,0 +1,12 @@
+{
+  "basGas": "int",
+  "basGeo": "int",
+  "basHerb": "int",
+  "basMine": "int",
+  "aroundGas": "int",
+  "aroundGeo": "int",
+  "aroundHerb": "int",
+  "aroundMine": "int",
+  "restoreMin": "int",
+  "restoreMax": "int"
+}

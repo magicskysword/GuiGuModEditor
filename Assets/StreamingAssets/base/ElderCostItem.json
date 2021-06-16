@@ -1,0 +1,5 @@
+{
+  "item": "int",
+  "money": "int",
+  "exp": "int"
+}

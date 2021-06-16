@@ -1,0 +1,6 @@
+{
+  "group": "int",
+  "grade": "int",
+  "color": "int",
+  "scale": "int"
+}

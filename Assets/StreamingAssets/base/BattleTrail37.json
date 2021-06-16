@@ -1,0 +1,4 @@
+{
+  "stayTime": "int",
+  "backSound": "string"
+}

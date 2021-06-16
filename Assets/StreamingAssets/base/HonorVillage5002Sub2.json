@@ -1,0 +1,6 @@
+{
+  "skill": "int",
+  "level": "int",
+  "group": "int",
+  "cost": "int"
+}

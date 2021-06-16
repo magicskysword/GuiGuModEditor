@@ -1,0 +1,17 @@
+{
+  "name": "string",
+  "type": "int",
+  "className": "int",
+  "hide": "int",
+  "playerShow": "int",
+  "npcShow": "int",
+  "icon": "string",
+  "level": "int",
+  "desc": "string",
+  "isOverlay": "int",
+  "drop": "int",
+  "dieDrop": "int",
+  "auction": "int",
+  "sale": "int",
+  "worth": "int"
+}

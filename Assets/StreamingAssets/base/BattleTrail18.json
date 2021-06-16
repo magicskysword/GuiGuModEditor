@@ -1,0 +1,7 @@
+{
+  "initDegreeRange": "int",
+  "valueA": "float",
+  "valueB": "float",
+  "degreeRangeMax": "string",
+  "dereeRangeRecover": "string"
+}

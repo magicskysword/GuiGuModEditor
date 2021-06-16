@@ -1,0 +1,7 @@
+{
+  "type": "int",
+  "value": "string",
+  "unlockView": "int",
+  "endMoveToPlayer": "int",
+  "dramaID": "string"
+}

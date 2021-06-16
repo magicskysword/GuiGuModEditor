@@ -1,0 +1,14 @@
+{
+  "refillBlockRequire": "int",
+  "blockAttribute": "int",
+  "price": "int",
+  "roleAttr": "string",
+  "fishJade": "int",
+  "unitAttr": "string",
+  "eliteAttr": "string",
+  "bossAttr": "string",
+  "totalPoint": "int",
+  "removeSave": "int",
+  "rebuildTime": "int",
+  "unlock": "string"
+}

@@ -1,0 +1,6 @@
+{
+  "dropID": "int",
+  "itemID": "int",
+  "number": "int",
+  "weight": "int"
+}

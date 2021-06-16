@@ -1,0 +1,6 @@
+{
+  "taskType": "int",
+  "taskWeight": "int",
+  "weightGrow": "int",
+  "name": "string"
+}

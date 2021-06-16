@@ -1,0 +1,7 @@
+{
+  "type": "int",
+  "condition": "string",
+  "forbitStand": "int",
+  "weightBase": "int",
+  "weightGrade": "int"
+}

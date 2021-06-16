@@ -1,0 +1,8 @@
+{
+  "level": "int",
+  "name": "string",
+  "rewardID": "int",
+  "probability": "int",
+  "itemCostID": "string",
+  "moneyCost": "int"
+}

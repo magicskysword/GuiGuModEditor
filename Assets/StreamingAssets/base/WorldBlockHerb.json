@@ -1,0 +1,23 @@
+{
+  "basHerb": "int",
+  "conceal": "int",
+  "outPut": "int",
+  "terrainID": "int",
+  "item": "int",
+  "quantity": "string",
+  "costDay": "int",
+  "costHerb": "int",
+  "weight1": "int",
+  "weight2": "int",
+  "weight3": "int",
+  "weight4": "int",
+  "weight5": "int",
+  "weight6": "int",
+  "weight7": "int",
+  "weight8": "int",
+  "weight9": "int",
+  "weight10": "int",
+  "weight11": "int",
+  "weight12": "int",
+  "weight13": "int"
+}

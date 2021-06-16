@@ -1,0 +1,8 @@
+{
+  "basMine": "int",
+  "weight": "int",
+  "terrainID": "int",
+  "outputID": "int",
+  "costDay": "int",
+  "costMine": "int"
+}

@@ -1,0 +1,16 @@
+{
+  "baseScore": "int",
+  "ageRequire": "string",
+  "ageGapRange": "string",
+  "ageScore": "int",
+  "gradeGapRange": "string",
+  "gradeScore": "int",
+  "partRequire": "int",
+  "partScore": "int",
+  "competeScore": "int",
+  "relationCloseRequire": "int",
+  "relationParaA": "int",
+  "breakWithRelationClose": "int",
+  "partMatch": "int",
+  "beautyMatch": "int"
+}

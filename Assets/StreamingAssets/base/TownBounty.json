@@ -1,0 +1,13 @@
+{
+  "taskID": "int",
+  "townLevel": "int",
+  "condition": "string",
+  "group": "int",
+  "countMax": "int",
+  "duration": "int",
+  "weightBase": "int",
+  "randomReduce": "int",
+  "weightMax": "int",
+  "icon": "string",
+  "desc": "string"
+}

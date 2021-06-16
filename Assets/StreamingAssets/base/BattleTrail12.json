@@ -1,0 +1,4 @@
+{
+  "screwRadius": "int",
+  "angularSpeed": "int"
+}

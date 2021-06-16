@@ -1,0 +1,7 @@
+{
+  "areaID": "string",
+  "range": "int",
+  "type": "int",
+  "value": "string",
+  "searchEventID": "string"
+}

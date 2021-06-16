@@ -1,0 +1,8 @@
+{
+  "group": "int",
+  "basType": "int",
+  "item": "string",
+  "effect": "string",
+  "haloEffect": "string",
+  "desc": "string"
+}

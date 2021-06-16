@@ -1,0 +1,19 @@
+{
+  "closeMinBA": "int",
+  "closeMaxBA": "int",
+  "closeMinCA": "int",
+  "closeMaxCA": "int",
+  "startDialogue": "int",
+  "location": "int",
+  "eventID": "int",
+  "battleDialogue": "int",
+  "interactionDialogue": "int",
+  "finishDialogueA": "int",
+  "finishDialogueB": "int",
+  "eventLogTaskA": "string",
+  "eventLogTaskB": "string",
+  "eventLogTaskC": "string",
+  "eventLogTaskD": "string",
+  "eventLogTaskE": "string",
+  "eventLogTaskF": "string"
+}

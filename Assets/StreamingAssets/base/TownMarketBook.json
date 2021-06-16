@@ -1,0 +1,11 @@
+{
+  "scale": "int",
+  "layer": "int",
+  "reputation": "int",
+  "grade": "int",
+  "type": "string",
+  "numMin": "int",
+  "numMax": "int",
+  "subID": "int",
+  "outID": "int"
+}

@@ -1,0 +1,16 @@
+{
+  "group": "int",
+  "guideTrigger": "string",
+  "guideCondition": "string",
+  "exitTrigger": "string",
+  "showCondition": "string",
+  "completeTrigger": "string",
+  "buttonLed": "string",
+  "buttonLedType": "int",
+  "buttonLedScale": "string",
+  "guideEffect": "string",
+  "desc": "string",
+  "descTC": "string",
+  "nextGuideID": "int",
+  "triggerOneComplete": "int"
+}

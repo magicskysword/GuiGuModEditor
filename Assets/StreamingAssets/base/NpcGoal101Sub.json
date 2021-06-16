@@ -1,0 +1,9 @@
+{
+  "grade": "int",
+  "growQuality": "int",
+  "weightBase": "int",
+  "weightEconomy": "int",
+  "weightPower": "int",
+  "weightMaterial": "int",
+  "weightEmergent": "int"
+}

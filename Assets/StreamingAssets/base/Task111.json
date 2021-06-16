@@ -1,0 +1,10 @@
+{
+  "triggerType": "int",
+  "triggerValue1": "string",
+  "triggerValue2": "string",
+  "buttonLed": "string",
+  "buttonLedType": "int",
+  "buttonLedScale": "string",
+  "condition": "string",
+  "positionID": "int"
+}

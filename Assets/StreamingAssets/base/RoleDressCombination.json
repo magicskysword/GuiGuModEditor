@@ -1,0 +1,10 @@
+{
+  "dressID": "string",
+  "dressID2": "string",
+  "dressID3": "string",
+  "dressID4": "string",
+  "dressID5": "string",
+  "dressID6": "string",
+  "dressID7": "string",
+  "beauty": "int"
+}

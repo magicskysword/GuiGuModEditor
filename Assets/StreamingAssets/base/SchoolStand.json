@@ -1,0 +1,9 @@
+{
+  "differValue": "int",
+  "differPercent": "int",
+  "contributionReduce": "int",
+  "letterIDA": "int",
+  "letterIDB": "int",
+  "costMoney": "int",
+  "captivity": "int"
+}

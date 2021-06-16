@@ -1,0 +1,6 @@
+{
+  "skillType": "int",
+  "skillGrade": "int",
+  "skillLevel": "int",
+  "fixedPower": "int"
+}

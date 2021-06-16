@@ -1,0 +1,6 @@
+{
+  "grade": "int",
+  "capacity": "int",
+  "lockScore": "int",
+  "effectValue": "string"
+}

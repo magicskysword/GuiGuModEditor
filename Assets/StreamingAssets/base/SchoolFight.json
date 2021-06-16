@@ -1,0 +1,17 @@
+{
+  "post": "int",
+  "month": "int",
+  "startMonth": "int",
+  "letterID": "int",
+  "winNum": "int",
+  "playerPer": "int",
+  "unitMin": "int",
+  "unitMax": "int",
+  "loseProb": "int",
+  "battleTime": "int",
+  "battlePostID": "int",
+  "paraA": "int",
+  "paraB": "int",
+  "paraC": "int",
+  "desc": "string"
+}

@@ -1,0 +1,5 @@
+{
+  "moneyMin": "int",
+  "moneyMax": "int",
+  "schoolGrow": "int"
+}

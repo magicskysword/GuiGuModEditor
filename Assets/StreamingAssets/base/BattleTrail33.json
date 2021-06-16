@@ -1,0 +1,11 @@
+{
+  "bulletNum": "string",
+  "popNum": "string",
+  "popRange": "string",
+  "repeatPop": "string",
+  "lockTarget": "int",
+  "searchRange": "int",
+  "popDelay": "int",
+  "attackBlank": "int",
+  "targetPos": "int"
+}

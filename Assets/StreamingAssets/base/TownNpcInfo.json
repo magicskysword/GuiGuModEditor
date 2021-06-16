@@ -1,0 +1,6 @@
+{
+  "building": "int",
+  "scale": "string",
+  "dramaNpc": "int",
+  "dialogueID": "string"
+}

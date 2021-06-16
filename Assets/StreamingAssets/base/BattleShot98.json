@@ -1,0 +1,9 @@
+{
+  "innerCD": "string",
+  "maxTime": "string",
+  "startEffect": "string",
+  "duringEffect": "string",
+  "finallyEffect": "string",
+  "removeEffect": "string",
+  "isAutoShot": "int"
+}

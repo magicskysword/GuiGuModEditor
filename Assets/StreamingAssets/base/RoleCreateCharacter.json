@@ -1,0 +1,22 @@
+{
+  "type": "int",
+  "character": "string",
+  "tips": "string",
+  "group": "int",
+  "grow": "int",
+  "self": "int",
+  "parents": "int",
+  "children": "int",
+  "married": "int",
+  "lover": "int",
+  "brother": "int",
+  "master": "int",
+  "student": "int",
+  "friend": "int",
+  "hater": "int",
+  "school": "int",
+  "stand": "int",
+  "brutality": "int",
+  "justice": "int",
+  "derailment": "int"
+}

@@ -1,0 +1,6 @@
+{
+  "townLevel": "int",
+  "grade": "int",
+  "phase": "int",
+  "weight": "int"
+}

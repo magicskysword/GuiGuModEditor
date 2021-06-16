@@ -1,0 +1,6 @@
+{
+  "cursorMap": "string",
+  "cursorMapLed": "string",
+  "cursorBattle": "string",
+  "cursorBattleLed": "string"
+}

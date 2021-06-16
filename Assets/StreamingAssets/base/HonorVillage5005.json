@@ -1,0 +1,10 @@
+{
+  "grade": "int",
+  "phase": "int",
+  "expRequire": "int",
+  "expItem": "int",
+  "expAdd": "int",
+  "hp": "int",
+  "def": "int",
+  "msp": "int"
+}

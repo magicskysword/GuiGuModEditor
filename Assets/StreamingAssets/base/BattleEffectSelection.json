@@ -1,0 +1,16 @@
+{
+  "refrence": "int",
+  "range": "string",
+  "hide": "int",
+  "camp": "int",
+  "include": "int",
+  "unitType": "string",
+  "unitID": "string",
+  "unitEffect": "int",
+  "effectValue": "string",
+  "unitAttr": "int",
+  "attrType": "int",
+  "attrValue": "int",
+  "rankType": "int",
+  "count": "string"
+}

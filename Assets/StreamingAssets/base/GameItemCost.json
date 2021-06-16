@@ -1,0 +1,10 @@
+{
+  "costID": "int",
+  "grade": "int",
+  "item": "int",
+  "itemType": "int",
+  "num": "int",
+  "attrType": "string",
+  "attrValue": "int",
+  "forceCost": "int"
+}

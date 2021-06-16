@@ -1,0 +1,9 @@
+{
+  "ghost": "int",
+  "letterID": "int",
+  "goalID": "int",
+  "matchScore": "int",
+  "ghostLife": "int",
+  "deadFeatureID": "int",
+  "itemID": "string"
+}

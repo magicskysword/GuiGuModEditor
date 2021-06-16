@@ -1,0 +1,13 @@
+{
+  "dmgInit": "string",
+  "scaleInit": "string",
+  "growTime": "string",
+  "effect": "string",
+  "halo": "int",
+  "haloInit": "string",
+  "lastTime": "string",
+  "removeEffect": "string",
+  "follow": "int",
+  "rangeCheck": "int",
+  "lerp": "float"
+}

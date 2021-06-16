@@ -1,0 +1,10 @@
+{
+  "group": "int",
+  "level": "int",
+  "item": "int",
+  "condition": "int",
+  "upLevelItem": "int",
+  "upLevelCost": "int",
+  "cost": "int",
+  "weight": "int"
+}

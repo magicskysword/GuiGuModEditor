@@ -1,0 +1,12 @@
+{
+  "name": "string",
+  "icon": "string",
+  "level": "int",
+  "skillType": "int",
+  "skillValue": "string",
+  "hpCost": "string",
+  "mpCost": "string",
+  "spCost": "string",
+  "cd": "int",
+  "desc": "string"
+}

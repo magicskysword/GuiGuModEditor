@@ -1,0 +1,11 @@
+{
+  "name": "string",
+  "icon": "string",
+  "type": "int",
+  "growWeightMin": "int",
+  "growWeightMax": "int",
+  "postMin": "int",
+  "postMax": "int",
+  "outShow": "int",
+  "closeRequire": "int"
+}

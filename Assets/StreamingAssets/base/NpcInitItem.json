@@ -1,0 +1,6 @@
+{
+  "moneyDrop": "int",
+  "itemDrop": "int",
+  "dropTimeMin": "int",
+  "dropTimeMax": "int"
+}

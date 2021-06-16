@@ -1,0 +1,22 @@
+{
+  "name": "string",
+  "showName": "int",
+  "icon": "string",
+  "moveCamGridEffect": "string",
+  "className": "int",
+  "type": "int",
+  "createDramaID": "string",
+  "dramaID": "string",
+  "isGeomantic": "int",
+  "isForceDel": "int",
+  "function": "string",
+  "duration": "string",
+  "setNPCA": "string",
+  "setNPCB": "string",
+  "notNPCDramaID": "string",
+  "maxCount": "int",
+  "appearMap": "string",
+  "openView": "int",
+  "createMonthLog": "string",
+  "delMonthLog": "string"
+}
